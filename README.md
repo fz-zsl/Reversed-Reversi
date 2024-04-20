@@ -9,7 +9,7 @@ The project is developed in Python 3.7.6, and only `numpy==1.21.0` is required.
 
 In this project, we use Genetic Algorithm to pretrain the model. The codes are mainly adapted from [here](https://github.com/Tokasumi/CS303-Fall2021-Reversed-Reversi.git) (thus we don't provide the code for pretraining).
 
-Note that we modified the configurations of the parameters, our configuration can be seen in our [report]().
+Note that we modified the configurations of the parameters, our configuration can be seen in our [report](https://github.com/fz-zsl/Reversed-Reversi/blob/main/A%20Reversed%20Reversi%20Agent%20based%20on%20Genetic%20Algorithm%20and%20MCTS.pdf).
 
 ## Performance
 
