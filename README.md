@@ -15,13 +15,15 @@ Note that we modified the configurations of the parameters, our configuration ca
 
 **Phase 1** ![Grade](https://img.shields.io/badge/Grade-100/100-blue)
 
-**Phase 2** ![Grade](https://img.shields.io/badge/Grade-TBA/100-blue)
+**Phase 2** ![Grade](https://img.shields.io/badge/Grade-100/100-blue)
 
-![Win](https://img.shields.io/badge/Win-41/50-green) ![Tie](https://img.shields.io/badge/Tie-5/50-orange) ![Lose](https://img.shields.io/badge/Lose-4/50-darkred)
+![Win](https://img.shields.io/badge/Win-346/400-green) ![Tie](https://img.shields.io/badge/Tie-4/400-orange) ![Lose](https://img.shields.io/badge/Lose-50/400-darkred)
 
-![WinRate](https://img.shields.io/badge/WinRate-0.87-blue) ![Rank](https://img.shields.io/badge/Rank-TBA-green)
+![WinRate](https://img.shields.io/badge/WinRate-0.87-blue) ![Rank](https://img.shields.io/badge/Rank-5-green)
 
 **Report** ![Grade](https://img.shields.io/badge/Grade-100/100-blue)
+
+**Overall** ![Grade](https://img.shields.io/badge/Grade-15/15-blue)
 
 ## Acknowledgments
 
